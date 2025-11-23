@@ -1,0 +1,273 @@
+{
+  "main": {
+    "id": "111f77487c1af79e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1a9f01ccf1f3bdb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "021d7a92b03725c9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "00_Bases/01_PermanentNotes.base",
+                "viewName": "Table"
+              },
+              "pinned": true,
+              "icon": "lucide-table",
+              "title": "01_PermanentNotes"
+            }
+          },
+          {
+            "id": "f2a96e0f566c4f2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_PermanentNotes/00_Zettelkasten.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_Zettelkasten"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91897506543c5e6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "34c8649d95dc51ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ef5e9a784294eb2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "3d8c1295765dbdc8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7710e431b84743d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 210.5
+  },
+  "right": {
+    "id": "2696ee49536a819b",
+    "type": "split",
+    "children": [
+      {
+        "id": "444fdcc07931a029",
+        "type": "tabs",
+        "dimension": 65.78947368421053,
+        "children": [
+          {
+            "id": "a657759b579c685d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://gemini.google.com/app?hl=ja",
+                "title": "Google Gemini",
+                "mode": "webview"
+              },
+              "pinned": true,
+              "icon": "globe-2",
+              "title": "Google Gemini"
+            }
+          },
+          {
+            "id": "def6ecaccfe89c0f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02_PermanentNotes/00_Zettelkasten.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "00_Zettelkastenへのバックリンク"
+            }
+          },
+          {
+            "id": "2bf4c5f48da72db6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "77010a59682b9495",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "91c4560978dca3ad",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a7c86fbb84ac0e26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bdba859cb2dd0bd0",
+        "type": "tabs",
+        "dimension": 34.21052631578947,
+        "children": [
+          {
+            "id": "250a46aa861fb0fc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "グラフビュー"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 448.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f2a96e0f566c4f2a",
+  "lastOpenFiles": [
+    "00_Bases/01_PermanentNotes.base",
+    "README.md",
+    "05_Bookmarks/競馬で学ぶ機械学習の基本と実践  Machine Learning with Horse Racing.md",
+    "Documents/app.php.md",
+    "Documents/homes-kaigo ディレクトリ構造.md",
+    "01_IndexNotes/Index.md",
+    "05_Bookmarks/DesignCoder Hierarchy-Aware and Self-Correcting UI Code Generation with Large Language Models.md",
+    "02_PermanentNotes/00_Zettelkasten.md",
+    "05_Bookmarks/00_contents.base",
+    "05_Bookmarks/TOEIC.md",
+    "00_Bases/02_LiteratureNotes.base",
+    "00_Bases/03_FleetingNotes.base",
+    "01_IndexNotes",
+    "無題のファイル.md",
+    "Documents/00_contents.base",
+    "Documents/02_LiteratureNotesとは？.md",
+    "02_PermanentNotes/Frontend.md",
+    "02_PermanentNotes/DataBase.md",
+    "02_PermanentNotes",
+    "03_LiteratureNotes/サンドボックス環境とは？.md",
+    "Prompts/テスト仕様書_プロンプト.md",
+    "Documents/プルリクエスト仕様書.md",
+    "Documents/バンドルの構造と役割.md",
+    "Documents/目標設定ガイド.md",
+    "Documents/resume.md",
+    "Documents/エンジニア朝会 進行.md",
+    "Documents/リリースまでのやり取り.md",
+    "Document/開発",
+    "Document/ファシリテーション",
+    "05_Bookmarks/初めてアプリをつくる人がまず抑えておくべき基本的事項.md",
+    "05_Bookmarks/IPA(情報処理推進機構)が公開している資料が有益すぎる.md",
+    "04_Bookmarks/ObsidianとGemini CLIで知識を育てる：第二の脳を構築する実践ガイド.md",
+    "Documents/03_FleetingNotesとは？.md",
+    "Documents",
+    "01_PermanentNotes/main.md"
+  ]
+}

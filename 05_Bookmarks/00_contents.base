@@ -1,0 +1,14 @@
+filters:
+  and:
+    - file.folder == "04_Bookmarks"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
+    columnSize:
+      file.name: 409

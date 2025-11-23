@@ -1,0 +1,16 @@
+filters:
+  and:
+    - file.folder == "Documents"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - category
+      - file.mtime
+    sort:
+      - property: category
+        direction: ASC
+    columnSize:
+      file.name: 258
+      file.mtime: 200
